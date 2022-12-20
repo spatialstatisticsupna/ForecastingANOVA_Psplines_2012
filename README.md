@@ -1,4 +1,3 @@
-# ForecastingANOVA_Psplines_2012
 # On predicting mortality counts using ANOVA-type P-spline models
 
 Stochastic Environmental Research and Risk Assessment. 2012;  26(6), 835-845.
