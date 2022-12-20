@@ -1,6 +1,6 @@
 # On predicting mortality counts using ANOVA-type P-spline models
 
-Stochastic Environmental Research and Risk Assessment. 2012;  26(6), 835-845.
+ REVSTAT-Statistical Journal, 13(1), 21-40.
 ------------------------------------------------------------------------
 
 This repository contains the R code to fit the model described in the paper *"On predicting mortality counts using ANOVA-type P-spline models"* (Etxeberria et al., 2015) 
