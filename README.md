@@ -17,7 +17,7 @@ This repository contains the R code to fit the model described in the paper *"On
 # **R code**
 ------------------------------------------------------------------------
 
-R code to fit predict using the time extended ANOVA-type P-spline model is included [here](https://github.com/spatialstatisticsupna/ForecastingANOVA_Psplines_2012/tree/main/R/).
+R code to predict using the time extended ANOVA-type P-spline model is included [here](https://github.com/spatialstatisticsupna/ForecastingANOVA_Psplines_2012/tree/main/R/).
 
 # **Acknowledgements**
 ------------------------------------------------------------------------
